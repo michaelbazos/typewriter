@@ -1,6 +1,9 @@
 ## typewriter
 
-######_Typewriter component for the web_
+
+### Description 
+
+Typewriter-style component for your web applications
 
 
 ### Usage
