@@ -23,3 +23,6 @@ _2. Use_
 Hello <web-typewriter words='["world", "girls", "guys", "friends"]'></web-typewriter>
 ```
 
+### License
+
+MIT
