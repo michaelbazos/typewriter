@@ -1,0 +1,37 @@
+{
+  "name": "web-typewriter",
+  "version": "0.0.1",
+  "description": "Typewriter web component",
+  "module": "dist/esm/index.js",
+  "main": "dist/index.js",
+  "types": "dist/types/components.d.ts",
+  "collection": "dist/collection/collection-manifest.json",
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build": "stencil build",
+    "start": "stencil build --dev --watch --serve",
+    "test": "stencil test --spec --e2e",
+    "test.watch": "stencil test --spec --e2e --watchAll"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@stencil/core": "~0.13.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelbazos/web-typewriter.git"
+  },
+  "author": "Michael Bazos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelbazos/web-typewriter/issues"
+  },
+  "homepage": "https://github.com/michaelbazos/web-typewriter",
+  "keywords": [
+    "typewriter",
+    "web component",
+    "framework agnostic"
+  ]
+}
