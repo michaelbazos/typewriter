@@ -1,6 +1,6 @@
 {
   "name": "@webcomponent/typewriter",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Typewriter web component",
   "module": "dist/esm/index.js",
   "main": "dist/index.js",
