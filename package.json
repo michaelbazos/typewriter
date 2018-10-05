@@ -1,6 +1,6 @@
 {
-  "name": "web-typewriter",
-  "version": "0.0.1",
+  "name": "@webcomponent/typewriter",
+  "version": "0.0.2",
   "description": "Typewriter web component",
   "module": "dist/esm/index.js",
   "main": "dist/index.js",
@@ -21,14 +21,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelbazos/web-typewriter.git"
+    "url": "git+https://github.com/michaelbazos/typewriter.git"
   },
   "author": "Michael Bazos",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/michaelbazos/web-typewriter/issues"
+    "url": "https://github.com/michaelbazos/typewriter/issues"
   },
-  "homepage": "https://github.com/michaelbazos/web-typewriter",
+  "homepage": "https://github.com/michaelbazos/typewriter",
   "keywords": [
     "typewriter",
     "web component",
