@@ -5,7 +5,7 @@ import { Component, Prop, State } from '@stencil/core';
   tag: 'web-typewriter',
   styleUrl: 'typewriter.css'
 })
-export class MyComponent {
+export class TypewriterComponent {
   @Prop() words: string;
 
   @Prop() interval = 150;
