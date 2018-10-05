@@ -10,6 +10,11 @@
 
 Typewriter-style component for your web applications
 
+### Demo
+
+https://jsfiddle.net/michaelbazos/v8xL6n2p/4
+
+![](./docs/typewriter-demo.gif)
 
 ### Usage
 
