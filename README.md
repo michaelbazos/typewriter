@@ -20,7 +20,7 @@ _1. Include the component script_
 _2. Use_
 
 ```html
-Hello <web-typewriter words='["world", "girls", "guys", "friends"]'></web-typewriter>
+Hello <web-typewriter words='["world", "girls", "guys", "friends", "foes"]'></web-typewriter>
 ```
 
 ### License
