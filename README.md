@@ -12,7 +12,7 @@ Typewriter-style component for your web applications
 
 ### Demo
 
-https://jsfiddle.net/michaelbazos/v8xL6n2p/4
+https://jsfiddle.net/tufwnvs7
 
 ![](./docs/typewriter-demo.gif)
 
