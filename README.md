@@ -18,9 +18,9 @@ https://jsfiddle.net/tufwnvs7
 
 ### Usage
 
-_1. Include the component script_
+_1. Include the script_
 
-    <script type="text/javascript" src="https://unpkg.com/@webcomponent/typewriter/dist/typewriter.js"></script>
+    <script src="https://unpkg.com/@webcomponent/typewriter@1.0.0/dist/typewriter.js"></script>
 
 _2. Use_
 
